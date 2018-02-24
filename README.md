@@ -23,7 +23,7 @@ The goal is to offer in customisable based to emojis in markdown. You can propos
 ## Emojis avaibles
 
 * [x]  [Github](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c) (name based)
-* [ ]  [Github](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c) (unicode based)
+* [ ]  [Github](https://gist.github.com/rxaviers/7360908) (unicode based)
 * [X]  [Webpagefx](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [ ]  [Hexadecimal code](http://outils-javascript.aliasdmc.fr/encodage-caracteres-emoji/#comment-lire-tableau)
 * [ ]  [Decimal code](http://outils-javascript.aliasdmc.fr/encodage-caracteres-emoji/#comment-lire-tableau)
