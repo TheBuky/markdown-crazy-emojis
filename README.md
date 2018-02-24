@@ -26,6 +26,7 @@ The goal is to offer in customisable based to emojis in markdown. You can propos
 * [ ]  [Github](https://gist.github.com/rxaviers/7360908) (unicode based)
 * [X]  [Webpagefx](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [ ]  [Hexadecimal code](http://outils-javascript.aliasdmc.fr/encodage-caracteres-emoji/#comment-lire-tableau)
+* [ ]  [Apple](https://emojipedia.org/apple/)
 * [ ]  [Decimal code](http://outils-javascript.aliasdmc.fr/encodage-caracteres-emoji/#comment-lire-tableau)
 
 ## How it's work
